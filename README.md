@@ -16,3 +16,5 @@
 *The computer programs employed here are of universal accessibility, particularly user-friendly and powerful tools like sklearn and pandas, employed for data analysis and visualization. This study not only provides fundamental insights but also stands as a visual and analytical spectacle, underlining the pervasive influence of social media on financial markets.*
 
 *In conclusion, this thesis serves as an initiation point for understanding the intriguing relationship between social media messages and stock prices, aspiring to lay a robust foundation for deeper and more comprehensive research endeavors in the future.*
+
+In this link, you can find datas that we used in this project : https://www.kaggle.com/code/shreytandel19/stock-prediction-based-on-tweet-sentiment-analysis/input
